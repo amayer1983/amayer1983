@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amayer1983
-- 👀 I’m interested in Microcontrollers, Raspberry Pis, etc.
-- 🌱 I’m currently learning all ist new to me ;-)
+- 👀 I’m interested in flutter, Microcontrollers, Raspberry Pis, etc.
+- 🌱 I’m currently learning, all is new to me ;-)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me andreas.mayer.1983@outlook.de
 
